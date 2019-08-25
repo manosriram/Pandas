@@ -1,1 +1,1 @@
-``` Pandas Library for Data Science. (Pre for Machine Learning) 🥳``` 
+``` Pandas Library for Data Science. (Pre for Machine Learning) 📚``` 
